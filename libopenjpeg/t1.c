@@ -30,6 +30,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include "opj_config.h"
 #include "opj_includes.h"
 #include "t1_luts.h"
 

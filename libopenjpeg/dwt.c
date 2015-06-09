@@ -35,6 +35,7 @@
 #include <xmmintrin.h>
 #endif
 
+#include "opj_config.h"
 #include "opj_includes.h"
 
 /** @defgroup DWT DWT - Implementation of a discrete wavelet transform */

@@ -33,6 +33,7 @@
 #include <xmmintrin.h>
 #endif
 
+#include "opj_config.h"
 #include "opj_includes.h"
 
 /* <summary> */

@@ -486,6 +486,8 @@ else
    OPJ_COMPILER_FLAG([-O3])
 fi
 
+AC_C_RESTRICT
+
 
 ### Checks for linker characteristics
 
